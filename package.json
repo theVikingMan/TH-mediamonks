@@ -1,5 +1,5 @@
 {
-  "name": "frontend-master-projs",
+  "name": "mediamonks-takehome",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theVikingMan/frontend-master-projs.git"
+    "url": "https://github.com/theVikingMan/TH-mediamonks.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/theVikingMan/frontend-master-projs/issues"
+    "url": "https://github.com/theVikingMan/TH-mediamonks.git/issues"
   },
-  "homepage": "https://github.com/theVikingMan/frontend-master-projs#readme",
+  "homepage": "https://github.com/theVikingMan/TH-mediamonks.git#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
@@ -29,7 +29,8 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.16",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "@babel/core": "^7.18.5",
